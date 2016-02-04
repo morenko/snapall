@@ -1,0 +1,108 @@
+# Russian translation for sven.
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# more@irpin.com, 2004.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 4.3.2.1\n"
+"Report-Msgid-Bugs-To: more@irpin.com\n"
+"POT-Creation-Date: 2005-08-30 12:51+0400\n"
+"PO-Revision-Date: 2005-08-30 12:51+0400\n"
+"Last-Translator: Eugene Morenko <more@irpin.com>\n"
+"Language-Team: more\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Info"
+msgstr "Информация"
+
+msgid "Authors"
+msgstr "Авторы"
+
+msgid ""
+"There was an error removing access to the multimedia keys.\n"
+"Key %d couldn't be unbound."
+msgstr ""
+"Произошла ошибка при отключении доступа к мультимедийным клавишам.\n"
+"Клавиша %d не может быть отключена."
+
+msgid ""
+"It seems that another application already has access to the multimedia "
+"keys.\n"
+"Key %s couldn't be bound.\n"
+"Is another daemon already running ?\n"
+msgstr ""
+"Похоже, что другое приложение уже имеет доступ к мультимедийным "
+"клавишам.\n"
+"Клавиша %s не может быть назначена.\n"
+"Запущен ли другой демон ?\n"
+
+msgid ""
+"None"
+msgstr ""
+"Клавиша не назначена"
+
+msgid ""
+"Preference window"
+msgstr ""
+"Настройка программи"
+
+msgid ""
+"Snapshot delay"
+msgstr ""
+"Задержка"
+
+msgid ""
+"Snapshot delay:"
+msgstr ""
+"Задержка:"
+
+msgid ""
+"<b>Full Screen</b>"
+msgstr ""
+"<b>Весь экран</b>"
+
+msgid ""
+"<b>Window Under Cursor</b>"
+msgstr ""
+"<b>Окно под курсором мыши</b>"
+
+msgid ""
+"<b>Region</b>"
+msgstr ""
+"<b>Область экрана</b>"
+
+msgid ""
+"Full Screen"
+msgstr ""
+"Весь экран"
+
+msgid ""
+"Window Under Cursor"
+msgstr ""
+"Окно под курсором мыши"
+
+msgid ""
+"Region"
+msgstr ""
+"Область экрана"
+
+msgid ""
+"Save as..."
+msgstr ""
+"Сохранить как.."
+
+msgid ""
+"Capture mode:"
+msgstr ""
+"Режим захвата снимка"
+
+msgid ""
+"New Snapshot"
+msgstr ""
+"Новый снимок"
+
+

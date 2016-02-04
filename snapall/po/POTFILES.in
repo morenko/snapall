@@ -1,0 +1,6 @@
+# List of source files containing translatable strings.
+
+src/snap.c
+src/key.c
+src/prefswin.c
+src/utils.c
